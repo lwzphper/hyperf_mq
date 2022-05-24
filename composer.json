@@ -1,0 +1,27 @@
+{
+    "name": "lwz/hyperf-rocketmq",
+    "description": "hyperf rocketmq extend",
+    "homepage": "https://gitee.com/easy_code/hyperf_rocketmq",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Lwz\\HyperfRocketMQ\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lwz"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "hyperf": {
+            "config": "Lwz\\HyperfRocketMQ\\ConfigProvider"
+        }
+    }
+}
