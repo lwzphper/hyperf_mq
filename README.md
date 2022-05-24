@@ -1,5 +1,8 @@
 # hyperf_rocketmq
-基于 https://github.com/thefair-net/hyperf_rocketmq 进行封装
+**最新代码，请访问：https://gitee.com/easy_code/hyperf_rocketmq**
+
+> 基于 https://github.com/thefair-net/hyperf_rocketmq 进行封装
+
 ### 1、安装
 
 ```shell
